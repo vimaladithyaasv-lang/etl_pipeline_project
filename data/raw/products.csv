@@ -1,0 +1,56 @@
+product_id,product_name,category,price
+P001,Product 1,apparel,30.05
+P002,Product 2, ELECTRONICS ,211.98
+P003,Product 3,Books,407.67
+P004,Product 4,Apparel,$98.97
+P005,Product 5,Toys,236.07
+P006,Product 6,Apparel,16.47
+P007,Product 7,apparel,$231.33
+P008,Product 8,Toys,$179.68
+P009,Product 9,,300.77
+P010,Product 10,electronics,237.94
+P011,Product 11,Books,218.31
+P012,Product 12,books ,383.11
+P013,Product 13,Books,30.32
+P014,Product 14,Apparel,$278.85
+P015,Product 15,apparel,227.93
+P016,Product 16,electronics,$341.80
+P017,Product 17,Books,199.98
+P018,Product 18, ELECTRONICS ,281.13
+P019,Product 19,Apparel,103.53
+P020,Product 20,Books,$24.93
+P021,Product 21, ELECTRONICS ,402.96
+P022,Product 22,Books,305.1
+P023,Product 23,books ,466.03
+P024,Product 24,home,495.35
+P025,Product 25,Apparel,298.89
+P026,Product 26,home,268.51
+P027,Product 27,Books,$240.07
+P028,Product 28,apparel,338.53
+P029,Product 29,,157.3
+P030,Product 30,Electronics,0
+P031,Product 31,,$293.84
+P032,Product 32,books ,361.99
+P033,Product 33,Electronics,78.15
+P034,Product 34,Home,288.42
+P035,Product 35, ELECTRONICS ,14.37
+P036,Product 36,Apparel,$209.42
+P037,Product 37,Electronics,388.61
+P038,Product 38,Apparel,354.36
+P039,Product 39,Apparel,165.9
+P040,Product 40,Toys,191.53
+P041,Product 41,Books,456.50
+P042,Product 42,,339.55
+P043,Product 43,apparel,323.44
+P044,Product 44,home,244.67
+P045,Product 45,home,$281.25
+P046,Product 46,Toys,386.73
+P047,Product 47,home,161.94
+P048,Product 48,Apparel,147.46
+P049,Product 49,Books,192.95
+P050,Product 50,home,477.53
+P003,Dup Product,Electronics,19.99
+P019,Dup Product,Electronics,19.99
+P046,Dup Product,Electronics,19.99
+P006,Dup Product,Electronics,19.99
+P023,Dup Product,Electronics,19.99
